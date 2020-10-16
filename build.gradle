@@ -26,7 +26,7 @@ repositories {
         url = 'http://repo.extendedclip.com/content/repositories/placeholderapi/'
     }
     maven {
-		name = jitpack
+		name = jitpack-repo
 		url = uri('http://jitpack.io')
     }
     maven {
