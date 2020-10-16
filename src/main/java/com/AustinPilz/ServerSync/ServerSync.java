@@ -6,7 +6,6 @@ import java.util.logging.Logger;
 
 import com.AustinPilz.ServerSync.IO.SpigotUpdateChecker;
 import com.AustinPilz.ServerSync.Listener.PlayerListener;
-import net.milkbowl.vault.economy.Economy;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
