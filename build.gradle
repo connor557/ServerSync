@@ -23,11 +23,8 @@ repositories {
         url = uri('http://oss.sonatype.org/content/repositories/snapshots')
     }
     maven {
+		name = placeholderapi
         url = 'http://repo.extendedclip.com/content/repositories/placeholderapi/'
-    }
-    maven {
-		name = jitpack-repo
-		url = uri('http://jitpack.io')
     }
     maven {
 		name = nukkitnexus-releases
